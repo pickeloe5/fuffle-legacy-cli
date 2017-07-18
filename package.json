@@ -1,6 +1,6 @@
 {
   "name": "fuffle-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates fuffle projects from templates",
   "main": "index.js",
   "keywords": [
@@ -10,6 +10,10 @@
   ],
   "bin": {
     "fuffle": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pickeloe5/fuffle-cli.git"
   },
   "author": "pickeloe5",
   "license": "ISC",
