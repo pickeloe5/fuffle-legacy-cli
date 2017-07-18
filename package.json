@@ -1,0 +1,19 @@
+{
+  "name": "fuffle-cli",
+  "version": "1.0.0",
+  "description": "Generates fuffle projects from templates",
+  "main": "index.js",
+  "keywords": [
+    "fuffle",
+    "cli",
+    "fuffle-cli"
+  ],
+  "bin": {
+    "fuffle": "index.js"
+  },
+  "author": "pickeloe5",
+  "license": "ISC",
+  "dependencies": {
+    "ncp": "^2.0.0"
+  }
+}
